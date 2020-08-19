@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MediaPlayer for Book Pages</string>
+
+
+    <string-array name="audioNameString">
+        <item>سورَةُ الفَاتِحَة</item>
+        <item>سورَةُ البَقَرَة</item>
+
+    </string-array>
+
+    <string-array name="audioFileName">
+        <item>quraan_0</item>
+        <item>quraan_1</item>
+
+    </string-array>
+</resources>

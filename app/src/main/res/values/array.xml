@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="quraan_0">
+        <item>@drawable/quraan_0_1</item>
+    </integer-array>
+
+    <integer-array name="quraan_1">
+    <item>@drawable/quraan_1_1</item>
+    <item>@drawable/quraan_1_2</item>
+    <item>@drawable/quraan_1_3</item>
+    </integer-array>
+
+</resources>
